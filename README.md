@@ -30,11 +30,8 @@ Features include adding, updating, and deleting expenses, generating reports, an
 **Website**: https://www.floridablue-fl.com
 
 **About the Author**:  
-Your A/C Name is a seasoned software developer with extensive experience in frontend and backend technologies. With a passion for clean code and intuitive UI/UX design, Your A/C Name has contributed to numerous open-source projects. Known for their strong problem-solving skills and deep understanding of coding principles, they are always eager to help the community.
+Lisa Miller is a seasoned software developer with extensive experience in frontend and backend technologies. With a passion for clean code and intuitive UI/UX design, Your A/C Name has contributed to numerous open-source projects. Known for their strong problem-solving skills and deep understanding of coding principles, they are always eager to help the community.
 
-## Getting Started
-
-Follow the steps below to set up the project locally:
 
 ### Clone the Repository:
 ```bash
