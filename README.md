@@ -27,12 +27,9 @@ Features include adding, updating, and deleting expenses, generating reports, an
 
 **Name**: Lisa Miller
 **Email**: lisa55miller@outlook.com
-**Website**: https://www.floridablue-fl.com
+**Website**: [FloridaBlue](https://www.floridablue-fl.com)
 
 **About the Author**:  
 Lisa Miller is a seasoned software developer with extensive experience in frontend and backend technologies. With a passion for clean code and intuitive UI/UX design, Your A/C Name has contributed to numerous open-source projects. Known for their strong problem-solving skills and deep understanding of coding principles, they are always eager to help the community.
 
 
-### Clone the Repository:
-```bash
-git clone https://github.com/yourusername/floridablue.git
